@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabeçalho {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 50px 0;
+    padding: 0 36px;
+}
+.logo {
+    width: 100%;
+}
+.item-lista-cabeçalho {
+    display: inline-block;
+}
